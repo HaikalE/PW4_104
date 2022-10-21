@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Charis+SIL&display=swap");
+aside {
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: #1746A2;
+  color: white;
+}
+
+header {
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+p {
+  padding: 15px;
+  font-family: "Charis SIL", serif;
+}
+
+main {
+  background-color: #FFF7E9;
+}
+
+header {
+  background-color: #5F9DF7;
+} /*# sourceMappingURL=Untitled-2.css.map */
+a {
+  color: white;
+}
+
+.container-fluid {
+  padding: 50px;
+}
+
+.container {
+  background-color: white;
+  padding: 50px;
+}
+
+#title {
+  font-family: "Lobster", cursive;
+}/*# sourceMappingURL=Untitled-2.css.map */

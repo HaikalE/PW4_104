@@ -4,4 +4,7 @@ TUGAS LAB 4 IKLC PERT-1 29-9-22
 
 ## PROJECT 1 :MyHobby
 
-MyHobby adalah project untuk pembelajaran 
+MyHobby adalah project untuk pembelajaran pembuatan website dinamis dengan pemrosesan dan pengolahan inputan pada bahasa pemrograman PHP. 
+
+### Gambar Database
+

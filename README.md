@@ -1,6 +1,8 @@
 # PW4_104
 TUGAS LAB 4 IKLC PERT-1 29-9-22
 
+---
+"The best investation is knowledge" 
 
 ## PROJECT 1 :MyHobby
 
